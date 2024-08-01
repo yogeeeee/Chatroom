@@ -1,0 +1,1 @@
+Develop a chat room project using Java, Spring boot, Web socket, HTML, Javascript. The chat room application is a real-time messaging platform developed using java spring to facilitate communication and collaboration among users in various chat rooms. The application provides a seamless and intrective environment for users to exchange messages.
